@@ -1,0 +1,6 @@
+setup.py
+resource_manager.egg-info/PKG-INFO
+resource_manager.egg-info/SOURCES.txt
+resource_manager.egg-info/dependency_links.txt
+resource_manager.egg-info/requires.txt
+resource_manager.egg-info/top_level.txt
