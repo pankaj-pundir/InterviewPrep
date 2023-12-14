@@ -2,6 +2,8 @@
 # Linked List
 # Stack
 # Trees - major
+# Disjoint Set
+- Find and union on O(log n ) operatiosn
 
 # Graphs - major
 
@@ -11,3 +13,12 @@
 
 ## DFS 
 - how to connect the graph.
+    - adjacency matrix
+
+#### Articulation point search algorithm 
+- https://www.youtube.com/watch?v=64KK9K4RpKE
+- Tarjan's algorithm - O(v+E) time
+
+
+#### Topological sort algorithm
+#### Graph coloring algorithm
